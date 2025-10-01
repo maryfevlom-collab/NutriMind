@@ -246,9 +246,16 @@ python -m http.server 8000
 
 ### Developer Information
 - **Name**: [Mawunyo Mary Fevlo]
-- **Email**: [maryfevlom@gmail.com]
+- **Email**: [maryfevlom@gmail.com] [mawunyo620@gmail.com]
 - **GitHub**: [@maryfevlom-collab](https://github.com/maryfevlom-collab)
 - **LinkedIn**: [https://www.linkedin.com/in/mawunyo-mary-fevlo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+
+## 📞 Contact Information
+
+- **Email**: maryfevlom@gmail.com, 
+- **Phone**: +233 207 923 266
+- **Location**: Accra, Greater Accra, Ghana
+- **GitHub**: [@maryfevlom-collab](https://github.com/maryfevlom-collab)
 
 ### Project Links
 - **🌐 Live Website**: [https://vercel.com/mawunyo-project/nutri-mind-website/FhZy6M8VyjUep6Z24LgLVy72EAdy]
