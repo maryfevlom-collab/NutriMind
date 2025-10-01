@@ -10,7 +10,7 @@
 To eliminate hunger and poverty by providing AI-powered nutrition solutions that are accessible, affordable, and sustainable for communities worldwide.
 
 ## 🌐 Live Website
-**🔗 Live URL**: [Add your deployed website URL here]
+**🔗 Live URL**: https://nutri-mind-website-git-main-mawunyo-project.vercel.app/[]
 
 **📱 GitHub Repository**: https://github.com/maryfevlom-collab/NutriMind
 
@@ -70,17 +70,7 @@ NutriMind/
 ├── 📄 index.html          # Main HTML file with semantic structure
 ├── 🎨 styles.css          # Complete CSS stylesheet with animations
 ├── ⚡ script.js           # Interactive JavaScript functionality
-├── 📖 README.md           # Project documentation (this file)
-├── 🖼️ images/             # Image assets folder
-│   ├── hero-bg.jpg        # Hero section background
-│   ├── ai-nutrition.jpg   # AI technology showcase
-│   ├── community.jpg      # Community support image
-│   ├── global-impact.jpg  # Global reach visualization
-│   ├── sdg-icons.png      # SDG goals icons
-│   └── team-photo.jpg     # Team/about page image
-└── 📝 docs/               # Additional documentation
-    ├── deployment-guide.md
-    └── technical-specs.md
+└── 📖 README.md           # Project documentation (this file)
 ```
 
 ## 📱 Responsive Breakpoints
@@ -255,16 +245,16 @@ python -m http.server 8000
 ## 📞 Contact & Support
 
 ### Developer Information
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: [Mawunyo Mary Fevlo]
+- **Email**: [maryfevlom@gmail.com]
 - **GitHub**: [@maryfevlom-collab](https://github.com/maryfevlom-collab)
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/mawunyo-mary-fevlo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 
 ### Project Links
-- **🌐 Live Website**: [Your Deployed URL]
+- **🌐 Live Website**: [https://vercel.com/mawunyo-project/nutri-mind-website/FhZy6M8VyjUep6Z24LgLVy72EAdy]
 - **📁 Repository**: https://github.com/maryfevlom-collab/NutriMind
 - **📋 Issues**: [Repository Issues Tab]
-- **📊 Project Board**: [GitHub Projects Link]
+- **📊 Project Board**: [https://github.com/maryfevlom-collab]
 
 ## 📄 License
 
